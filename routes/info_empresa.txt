@@ -1,35 +1,37 @@
 TEXTO PARA ENTRENAMIENTO – EMPRESA FICTICIA
 
-Nombre de la empresa: TecnoMaquinados y Automatización Industrial S.A. de C.V.
+Nombre de la empresa: MIDO GROUP S.A. de C.V.
 
-TecnoMaquinados y Automatización Industrial S.A. de C.V. es una empresa dedicada al diseño, fabricación y optimización de soluciones para la industria manufacturera. Nuestro propósito principal es ofrecer servicios de maquinado de precisión y sistemas de automatización que mejoren la eficiencia, productividad y seguridad de los procesos industriales de nuestros clientes.
+MIDO GROUP S.A. de C.V. es una empresa orgullosamente familiar dedicada al diseño, fabricación y optimización de soluciones para la industria manufacturera. Nuestro propósito principal es ofrecer servicios de maquinado de precisión y sistemas de automatización que mejoren la eficiencia, productividad y seguridad de los procesos industriales de nuestros clientes.
 
-Nos especializamos en maquinado CNC, fabricación de piezas personalizadas, mantenimiento de maquinaria, diseño de herramientas y dispositivos industriales. También desarrollamos proyectos de automatización que incluyen integración de sensores, actuadores, robots industriales, PLCs, sistemas de visión y soluciones de software para control de procesos.
-
-La misión de la empresa es brindar soluciones confiables, precisas y adaptadas a las necesidades de cada cliente. Nuestro enfoque está en la calidad, el cumplimiento de tiempos de entrega y la innovación tecnológica. Trabajamos con estándares de ingeniería y control de calidad para garantizar resultados consistentes en cada proyecto.
+Nos especializamos en maquinado CNC, fabricación de piezas personalizadas, diseño de herramientas y dispositivos industriales. Nuestro enfoque está en la calidad, el cumplimiento de tiempos de entrega y la innovación tecnológica. Trabajamos con estándares de ingeniería y control de calidad para garantizar resultados consistentes en cada proyecto.
 
 Nuestro público principal incluye empresas de los sectores automotriz, metalmecánico, electrónico, alimentario y de manufactura general. Atendemos tanto proyectos pequeños como desarrollos industriales completos.
 
-Servicios principales:
+Contamos con 3 unidades de negocio:
+Mecanizados y modelados industriales.
+Automatización y control.
+Manofactura de madera y embalajes.
 
-Maquinado CNC de alta precisión.
+Servicios:
+Mecanizados y modelados industriales: Fungimos como casa de ingeniería mecanica, ayudamos a nuestros clientes a diseñar, maquinar y ensamblar sus proyectos. Contamos con: Dos centros de maquinado CNC VF3 de 20" x 48" de tres ejes, un torno covencional 8" de volteo x 40" de bacada, dos fresadoras convencional de 40" x 24", un taladro de banco
+Manofactura de madera y embalajes: Nos dedicamos especialmente a la rehabilitación de pallets de madera, generando la reutilización de más de 10 mil toneladas de madera al año, ofrecemos los siguientes servicios en esta area: Crate de madera en cualquier medida, cajas especiales, pallets medida estandar 40" 48", pallet de medidas especiales, carpinteria industrial, RME residuos de manejo especial.
+Automatización y control: Junto a nuestro socio comercial APOLLO SEIKO podemos ofrecer una amplia variedad de soluciones en automatización avanzada. Nos especializamos en la fabricación de equipo: Soldadura punto a punto, Atornillado, Dispensado.
 
-Fabricación de piezas metálicas y plásticas según plano.
+Nuestra visión: Nos enfocamos en el acompañamiento integral, dinámico y eficiente con innovación y desarrollo tecnológico confiable para nuestros clientes.
 
-Diseño y construcción de dispositivos, herramentales y estructuras industriales.
+Nuestra misión: Ser el proveedor líder que brinda facilidad, rapidez y eficiencia en la creación e innovación de tecnología para el sector industrial y trascender como la mejor empresa para nuestros clientes, colaboradores y socios.
 
-Automatización de procesos productivos.
 
-Integración de robots industriales y sistemas de control.
+Horario de atención: Lunes a Viernes de 8:00 a 18:00 horas.
+Ubicación: Guadalajara-Tepic #4935, San Juan De Ocotan, Zapopan, Jalisco, México. West Plaza Park Bodega número 62.
+Correo de contacto: rflores@midogroup.com.mx
+Teléfono: +52 3312696413.
 
-Mantenimiento y mejora de maquinaria existente.
+Contactos por área:
+Automatización y control: Rafael Flores Sandoval, correo electrónico: rflores@midogroup.com.mx, telefono: +52 3312696413.
+Mecanizados y modelados industriales: Josue Flores Sandoval, correo electrónico: jflores@midogroup.com.mx, telefono: +52 3328324203.
+Manofactura de madera y embalajes: Francisco Flores Sandoval, correo electrónico: ventas@midogroup.com.mx, telefono: +52 3328335070.
 
-Asesoría técnica y desarrollo de ingeniería.
-
-Horario de atención: Lunes a Viernes de 9:00 a 18:00 horas.
-Ubicación: Ciudad Industrial, México (empresa ficticia).
-Correo de contacto: contacto@tecnomaquinados.com
- (ficticio).
-Teléfono: +52 555 000 1234 (ficticio).
-
-Nuestro objetivo es convertirnos en un aliado estratégico para las empresas que buscan mejorar sus procesos mediante precisión mecánica y automatización avanzada.
+Página de la empresa:
+https://midogroup.mx/
